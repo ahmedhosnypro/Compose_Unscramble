@@ -7,9 +7,7 @@ j
 :app/src/main/java/com/example/unscramble/ui/theme/Theme.kt,0\1\018cc0f21e8823ee2ba9857a694922c649b801eb
 i
 9app/src/main/java/com/example/unscramble/ui/theme/Type.kt,6\d\6d5be3ace9c56635847a10e9475e4dbe6b78b76e
-l
-<app/src/main/java/com/example/unscramble/ui/GameViewModel.kt,6\d\6d3c2ed34eed6f071d817c5d62d80ad904e2a140
 @
 build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
-D
-app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+h
+8app/src/main/java/com/example/unscramble/MainActivity.kt,9/3/9355e503361bf69c1f3de525fd7989afddc352a4
