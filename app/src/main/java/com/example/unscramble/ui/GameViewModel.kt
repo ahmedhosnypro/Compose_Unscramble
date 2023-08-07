@@ -55,7 +55,6 @@ class GameViewModel : ViewModel() {
     }
 
     fun checkUserGuess() {
-
         if (userGuess.equals(currentWord, ignoreCase = true)) {
             val updatedScore = _uiState.value.score.plus(SCORE_INCREASE)
             updateGameState(updatedScore)
